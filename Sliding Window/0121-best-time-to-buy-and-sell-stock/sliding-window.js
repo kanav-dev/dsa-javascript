@@ -1,6 +1,6 @@
 /**
  * https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
- * Two Pointer
+ * Sliding Window
  * Time Complexity:  O(N) 
  * Space Complexity: O(1)
  * @param {number[]} prices
